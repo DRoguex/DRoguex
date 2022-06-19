@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DRoguex (Roguex was taken)
+- 🌱 I’m currently learning Django and basics of java
+- 📫 How to reach me: https://www.linkedin.com/in/rafa%C5%82-rogalski-844621198/
